@@ -1,4 +1,4 @@
-Play Store App Analysis - Exploratory Data Analysis (EDA)
+# Play Store App Analysis - Exploratory Data Analysis (EDA)
 
 📌 Project Overview
 
@@ -49,9 +49,13 @@ Sentiment Analysis: Positive reviews boost ratings, while negative reviews highl
 🚀 Business Insights & Recommendations
 
 ✅ Improve User Engagement: Encourage more ratings and reviews through in-app prompts.
+
 ✅ Optimize Pricing Strategy: Offer freemium models or competitive pricing for paid apps.
+
 ✅ Leverage High-Performance Categories: Focus on high-demand app categories for better reach.
+
 ✅ Monitor User Sentiment: Address negative feedback to enhance user experience.
+
 ✅ Optimize for Content Rating: Apps rated "Everyone" generally have higher installs.
 
 📝 How to Use This Repository

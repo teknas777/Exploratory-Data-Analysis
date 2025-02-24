@@ -90,5 +90,5 @@ Feel free to fork this repository, create feature branches, and submit pull requ
 
 📧 Contact
 
-For any queries or suggestions, reach out via GitHub Issues or email: your-email@example.com
+For any queries or suggestions, reach out via GitHub Issues or email: sanketalurkar5@gmail.com
 
